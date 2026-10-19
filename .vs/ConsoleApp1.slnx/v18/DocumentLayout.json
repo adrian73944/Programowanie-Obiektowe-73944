@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\73944\\source\\repos\\ConsoleApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E2917F1E-E289-46B2-AC11-FED78348F349}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\73944\\source\\repos\\consoleapp1\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2917F1E-E289-46B2-AC11-FED78348F349}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2917F1E-E289-46B2-AC11-FED78348F349}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\73944\\source\\repos\\consoleapp1\\consoleapp1\\klasy\\konto_bankowe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2917F1E-E289-46B2-AC11-FED78348F349}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\klasy\\konto_bankowe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2917F1E-E289-46B2-AC11-FED78348F349}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\73944\\source\\repos\\consoleapp1\\consoleapp1\\consoleapp1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E2917F1E-E289-46B2-AC11-FED78348F349}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\consoleapp1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2917F1E-E289-46B2-AC11-FED78348F349}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\73944\\source\\repos\\consoleapp1\\consoleapp1\\klasy\\samochod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2917F1E-E289-46B2-AC11-FED78348F349}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\klasy\\samochod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ConsoleApp1",
+              "DocumentMoniker": "C:\\Users\\73944\\source\\repos\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+              "RelativeDocumentMoniker": "ConsoleApp1\\ConsoleApp1.csproj",
+              "ToolTip": "C:\\Users\\73944\\source\\repos\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+              "RelativeToolTip": "ConsoleApp1\\ConsoleApp1.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-10-19T13:02:57.724Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Konto_Bankowe.cs",
+              "DocumentMoniker": "C:\\Users\\73944\\source\\repos\\ConsoleApp1\\ConsoleApp1\\Klasy\\Konto_Bankowe.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Klasy\\Konto_Bankowe.cs",
+              "ToolTip": "C:\\Users\\73944\\source\\repos\\ConsoleApp1\\ConsoleApp1\\Klasy\\Konto_Bankowe.cs",
+              "RelativeToolTip": "ConsoleApp1\\Klasy\\Konto_Bankowe.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAowD8AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-19T12:42:03.423Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\73944\\source\\repos\\ConsoleApp1\\ConsoleApp1\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Program.cs",
+              "ToolTip": "C:\\Users\\73944\\source\\repos\\ConsoleApp1\\ConsoleApp1\\Program.cs",
+              "RelativeToolTip": "ConsoleApp1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-19T11:41:49.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Samochod.cs",
+              "DocumentMoniker": "C:\\Users\\73944\\source\\repos\\ConsoleApp1\\ConsoleApp1\\Klasy\\Samochod.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Klasy\\Samochod.cs",
+              "ToolTip": "C:\\Users\\73944\\source\\repos\\ConsoleApp1\\ConsoleApp1\\Klasy\\Samochod.cs",
+              "RelativeToolTip": "ConsoleApp1\\Klasy\\Samochod.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-19T12:04:40.98Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
